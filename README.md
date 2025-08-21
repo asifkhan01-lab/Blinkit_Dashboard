@@ -43,8 +43,6 @@ Compare sales across item types, outlet sizes, and locations.
 Identify which product categories and outlets contribute the most revenue.
 Provide a quick overview for business insights and decision-making.
 
-git clone https://github.com/asifkhan01-lab/blinkit-dashboard.git
-
 📌 Insights Derived
 
 Tier 3 outlets outperform Tier 1 & 2 in total sales.
